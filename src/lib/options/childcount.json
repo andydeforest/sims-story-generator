@@ -1,0 +1,8 @@
+[
+    {"name": 1, "percentage": 10},
+    {"name": 2, "percentage": 20},
+    {"name": 3, "percentage": 30},
+    {"name": 4, "percentage": 20},
+    {"name": 5, "percentage": 10},
+    {"name": 0, "percentage": 10}
+]
