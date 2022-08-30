@@ -2,7 +2,6 @@
   "name": "sims-story-generator",
   "version": "0.0.0",
   "scripts": {
-    "deploy": "deploy.sh",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview --port 5050"
