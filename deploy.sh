@@ -14,6 +14,6 @@ git checkout -b main
 git add -A
 git commit -m 'deploy'
 
-git push -f git@github.com:andydeforest/sims-story-generator.git main:gh-pages
+git push -f git@github.com:andydeforest/sims-story-generator.git deployment:gh-pages
 
 cd -
