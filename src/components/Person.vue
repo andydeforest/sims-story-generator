@@ -1,7 +1,7 @@
 <template>
     <div class="relative border p-2 border-gray-300">
         <div class="px-6">
-            <img :src="`/images/${this.person.image}`" class="max-w-full h-24 mx-auto" :alt="`${this.person.name} - ${this.person.title}`" />
+            <img :src="`images/${this.person.image}`" class="max-w-full h-24 mx-auto" :alt="`${this.person.name} - ${this.person.title}`" />
         </div>
         <div class="text-center">
             <h2 class="text-2xl leading-normal font-bold mb-1">{{ this.person.name }}</h2>
